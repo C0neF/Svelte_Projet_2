@@ -1,0 +1,18 @@
+{
+  "ask": "Ask",
+  "scale": "Scale",
+  "max_size": "Max Size",
+  "interval": "Interval",
+  "start": "Start",
+  "stop": "Stop",
+  "not_supported": "Not Supported",
+  "not_supported_camera": "Browser does not support video camera. Please use a supported browser.",
+  "not_supported_webgpu": "Browser does not support WebGPU. Please use a supported browser.",
+  "warning": "Warning",
+  "permission_not_granted": "Permission not granted. Please grant permission first.",
+  "capture_failed": "Capture failed",
+  "model_loading_failed": "Model loading failed, please refresh the page and try again",
+  "instruction_placeholder": "In one sentence, what do you see?",
+  "model": "Model",
+  "model_placeholder": "HuggingFaceTB/SmolVLM-Instruct"
+}

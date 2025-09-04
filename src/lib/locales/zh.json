@@ -1,0 +1,18 @@
+{
+  "ask": "询问",
+  "scale": "缩放",
+  "max_size": "最大尺寸",
+  "interval": "间隔",
+  "start": "开始",
+  "stop": "停止",
+  "not_supported": "不支持",
+  "not_supported_camera": "浏览器不支持视频摄像头。请使用支持的浏览器。",
+  "not_supported_webgpu": "浏览器不支持 WebGPU。请使用支持的浏览器。",
+  "warning": "警告",
+  "permission_not_granted": "未授予权限。请先授予权限。",
+  "capture_failed": "捕获失败",
+  "model_loading_failed": "模型加载失败，请刷新页面重试",
+  "instruction_placeholder": "一句话描述你看到了什么？",
+  "model": "模型",
+  "model_placeholder": "HuggingFaceTB/SmolVLM-Instruct"
+}
